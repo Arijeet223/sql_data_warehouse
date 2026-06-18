@@ -1,2 +1,4 @@
 # sql_data_warehouse
-building a modern data warehouse with sql server
+welcome
+building a modern data warehouse with sql server using medallion architecture
+with MIT Lisence so feel free to review and give feedback!!
